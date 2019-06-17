@@ -1,0 +1,11 @@
+¿Que hace la funcion atoi?
+
+Convierte una variable de tipo string a tipo entero
+
+Ademas de atoi existen otras funciones que permitan convertir cadenas de caracteres a numeros reales ¿cuales?
+
+stoi(Convert string to integer),stol(Convert string to long int), stoul(Convert string to unsigned integer ),strtol(Convert string to long integer)
+
+Existen funciones que convierten valores numericos a cadenas de caracteres ¿cuales?
+
+Si, por ejemplo unas de ellas son: itoa,snprintf 
