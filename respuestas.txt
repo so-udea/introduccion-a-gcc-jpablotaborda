@@ -1,0 +1,7 @@
+¿Que hacen los parametros argc y argv?
+
+El parámetro argc sirve para indicar el número de parámetros que se pasaron por linea de comandos al main del programa. En cambio, argv es un arreglo donde están los parametros que se han pasado al programa por linea de comandos; Por ejemplo, usualmente en argv[0] se encuentra el nombre de la aplicación que está corriendo.
+
+¿Como se usa el programa? 
+
+El programá revisa todos los parametros en argv;imprime el número de argumentos en pantalla. Luego si alguno de estos pertenece a alguna de las dos banderas debug o -file se ejecutan su respectiva impresión en pantalla.
